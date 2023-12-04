@@ -14,6 +14,9 @@ As a user, I want to report uneven surfaces, holes, or new parking spots, so the
 ⑤Safety Features
 As a skateboarder, in case of a fall or collision, I want an emergency contact to be alerted.
 While not directly linked to Google APIs, the user's location can be sent via Google Maps URL for pinpoint accuracy to the emergency contact.
+As shown in the map.png
+for differet start-end points, the app gives the best route for scooter users .Based on the roughness of the road, the route will be labled by different colors.
+Because of the lack of real life data, this is just a demo
 
 
 
